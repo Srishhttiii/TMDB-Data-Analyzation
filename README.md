@@ -11,7 +11,7 @@ The project follows a complete data analytics workflow:
 
 **Raw Dataset → SQL Data Cleaning & Validation → Power Query Transformations → Data Modeling → DAX Measures → Interactive Power BI Dashboard**
 
-The objective of the project is to understand patterns in movie production, audience ratings, popularity, revenue, budget, profitability, ROI, and genre performance.
+The objective of the project is to understand patterns in movie production, audience ratings, popularity, revenue, budget, profitability, ROI and genre performance.
 
 ---
 
@@ -26,7 +26,7 @@ The analysis focuses on answering questions such as:
 - Does a higher movie budget correspond to higher revenue?
 - Which movies generate the highest profits?
 - How does profitability vary across genres?
-- How do ratings, voting activity, popularity, and financial performance relate to each other?
+- How do ratings, voting activity, popularity and financial performance relate to each other?
 
 ---
 
@@ -58,7 +58,7 @@ The dataset contains **9,770 rows and 22 original columns**. Every movie has a u
 
 - **MySQL** – database creation, data loading, data quality validation and data cleaning
 - **Power Query** – data transformation and feature creation
-- **Power BI** – data modeling, DAX measures, visualization, and dashboard development
+- **Power BI** – data modeling, DAX measures, visualization and dashboard development
 - **DAX** – analytical measures and calculations
 - **GitHub** – project documentation and version control
 
@@ -79,4 +79,4 @@ The dataset contains **9,770 rows and 22 original columns**. Every movie has a u
    Created measures for key metrics and dashboard analysis.
 
 5. **Dashboard Development**  
-   Built an interactive Power BI dashboard to analyze ratings, popularity, financial performance, profitability, genres, and movie production trends.
+   Built an interactive Power BI dashboard to analyze ratings, popularity, financial performance, profitability, genres and movie production trends.
