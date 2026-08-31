@@ -61,3 +61,22 @@ The dataset contains **9,770 rows and 22 original columns**. Every movie has a u
 - **Power BI** – data modeling, DAX measures, visualization, and dashboard development
 - **DAX** – analytical measures and calculations
 - **GitHub** – project documentation and version control
+
+---
+
+## Project Workflow 🔄
+
+1. **SQL Data Cleaning & Validation**  
+   Cleaned and validated the movie dataset using MySQL.
+
+2. **Power Query Transformations**  
+   Prepared the data and created analytical fields for the dashboard.
+
+3. **Data Modeling**  
+   Structured the movie and genre data and established relationships in Power BI.
+
+4. **DAX Measures**  
+   Created measures for key metrics and dashboard analysis.
+
+5. **Dashboard Development**  
+   Built an interactive Power BI dashboard to analyze ratings, popularity, financial performance, profitability, genres, and movie production trends.
